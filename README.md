@@ -66,7 +66,9 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 <!-- <details> -->
 ## Coding Time : IntelliJ and VsCode
 
-<figure><embed src="https://wakatime.com/share/@23e9389b-ea1e-4c9b-b307-ec5c04953666/6ab8d2be-5542-4905-8410-febeee39cbfe.svg"></embed></figure>
+<p align=center>
+  <img src="https://wakatime.com/share/@23e9389b-ea1e-4c9b-b307-ec5c04953666/6ab8d2be-5542-4905-8410-febeee39cbfe.svg">
+  </p>
 
 
 
