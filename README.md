@@ -45,34 +45,6 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 
 <!-- ## 🍀 Sponsors and Supporters
 
-[![BuyMeaCoffee](https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoff.ee/warengonzaga) [![Vercel](https://img.shields.io/badge/Vercel-%23000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com) [![CircleCI](https://img.shields.io/badge/CircleCI-%23000.svg?&style=for-the-badge&logo=CircleCI&logoColor=white)](https://vercel.com) [![GitBook](https://img.shields.io/badge/GitBook-%233884FF.svg?&style=for-the-badge&logo=gitbook&logoColor=white)](https://gitbook.io) [![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-%230080ff.svg?&style=for-the-badge&logo=digitalocean&logoColor=white)](https://digitalocean.com) [![Deepware](https://img.shields.io/badge/deepware-%23cb2653.svg?&style=for-the-badge&logoColor=white)](https://deepware.ai/) [![NOWPayments](https://img.shields.io/badge/NOWPayments-%2364ACFF.svg?&style=for-the-badge&logoColor=white)](https://nowpayments.io) [![StackHawk](https://img.shields.io/badge/Stackhawk-%2300CBC6.svg?&style=for-the-badge&logoColor=white)](https://stackhawk.com) -->
-
-<!-- and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what I do! -->
-
----
-
-<!-- markdownlint-disable MD033 -->
-
-<!-- <details>
-    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Maintenance Your Windows Machine Like a Pro](https://blog.warengonzaga.com/maintenance-your-windows-machine-like-a-pro)
-- [7 Awesome: Free Websites to Learn Web3](https://blog.warengonzaga.com/7-awesome-free-websites-to-learn-web3)
-- [7 Awesome: Web Animation Libraries and Frameworks](https://blog.warengonzaga.com/7-awesome-web-animation-libraries-and-frameworks)
-- [Organize Your Starred GitHub Repositories Like a Pro](https://blog.warengonzaga.com/organize-your-starred-github-repositories-like-a-pro)
-- [The Perfect Domain Name for your JavaScript Library or Framework](https://blog.warengonzaga.com/the-perfect-domain-name-for-your-javascript-library-or-framework) -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- </details> --> -->
-
-<!-- <details>
-    <summary>&#128187 <b>GitHub Activities</b></summary><br/>
-
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#12](https://github.com/ndujaLabs/metashu/issues/12) in [ndujaLabs/metashu](https://github.com/ndujaLabs/metashu) -->
-
-<!--END_SECTION:activity-->
 
 <!-- </details> --> * 🏆 GITHUB AWARDS
 
@@ -94,26 +66,9 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 <!-- <details> -->
 ## Coding Time : IntelliJ and VsCode
 
-[![VsCode](https://github-readme-stats.vercel.app/api/wakatime?username=mavlonbek&&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![VsCode](https://github-readme-stats.vercel.app/api/wakatime?https://wakatime.com/share/@23e9389b-ea1e-4c9b-b307-ec5c04953666/6ab8d2be-5542-4905-8410-febeee39cbfe.svg)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
 
-<!-- </details> -->
-
-<!-- markdownlint-enable MD033 -->
-<!-- 
-![Metrics](https://github.com/warengonzaga/warengonzaga/blob/main/github-metrics.svg)
-
----
-
-💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏
-
-[personal website]: https://warengonzaga.com
-[business website]: https://wgcompanyhq.com
-[biolink]: https://bio.link/warengonzaga
-[facebook]: https://facebook.com/warengonzagaofficial
-[twitter]: https://twitter.com/warengonzaga
-[instagram]: https://instagram.com/wrngnzg
-[youtube]: https://youtube.com/warengonzaga -->
