@@ -26,7 +26,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 * 🧠  I'm learning  Python
 * 🤝  I'm open to collaborate on interesting, fun, cool projects
 * 👨‍💻  I Love Coding | And Open for Job Opportunities
-* 📽️  Creaating Tech videos on youtube
+* 📽️  I create tech-videos on youtube
 
 
 
