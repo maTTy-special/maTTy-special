@@ -55,7 +55,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
   <img src="https://img.shields.io/github/followers/Mavlonbek17?label=Followers%20&logo=github" alt="GitHub Followers" /> <img src="https://komarev.com/ghpvc/?username=Mavlonbek17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" /> <img src="https://visitor-badge.glitch.me/badge?page_id=Mavlonbek17.Mavlonbek17" alt="Profile Visitor"/>
 
 
-# Hi, I am Mavlonbek Zaynobiddinov (💻💖☕)
+# Hi, I am Tokhirjon Ismoilov (💻💖☕)
 
 📢 Nominate ([@Mavlonbek17](https://github.com/Mavlonbek17)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate My hardwork and dedication to open source.
 
