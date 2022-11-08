@@ -86,8 +86,8 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 
 <!-- <details> -->
     * 📈 GITHUB STATUS
-[![Mavlonbek's Github stats](https://github-readme-stats.vercel.app/api?username=Mavlonbek17&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Mavlonbek17/Mavlonbek17/blob/main/README.md) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mavlonbek17&layout=compact&theme=tokyonight)](https://github.com/Mavlonbek17/Mavlonbek17/blob/main/README.md)
+[![Tokhirjon's Github stats](https://github-readme-stats.vercel.app/api?username=maTTy-special&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/maTTy-special/maTTy-special/blob/main/README.md) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maTTy-special&layout=compact&theme=tokyonight)](https://github.com/maTTy-special/maTTy-special/blob/main/README.md)
 
 
 
