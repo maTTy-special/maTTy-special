@@ -5,7 +5,7 @@
 
 # Hi, I am Tokhirjon Ismoilov (💻💖☕)
 
-📢 Nominate ([@Mavlonbek17](https://github.com/Mavlonbek17)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate My hardwork and dedication to open source.
+📢 Nominate ([@maTTy-special](https://github.com/maTTy-special)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate My hardwork and dedication to open source.
 
 <!-- markdownlint-enable MD033 -->
 ##  All My Social Media Below
@@ -22,15 +22,13 @@ Software Engineer | Computer Science Student | Daily Learner
 I'm a 3rd year Computer Engineering student. I have been working with Python for the last year. I like building my own projects and sharing them with people on GitHub.
 
 * 🌍  I live in Warsaw, Poland
-* ✉️  You can contact me at [mavlonbek.zaynobiddinov1@gmail.com](mailto:mavlonbek.zaynobiddinov1@gmail.com)
-* 🧠  I'm learning  Java
+* ✉️  You can contact me at [tokhirjon.ismoilov@bk.ru](mailto:tokhirjon.ismoilov@bk.ru)
+* 🧠  I'm learning  Python
 * 🤝  I'm open to collaborate on interesting, fun, cool projects
 * 👨‍💻  I Love Coding | And Open for Job Opportunities
-* 📽️  Hobby is tplaying video games
+* 📽️  Creaating Tech videos on youtube
 
-<!-- markdownlint-disable MD033 --> 
-<a href="https://www.youtube.com/channel/UCaia8ddKiC7B2xqZUCwahTg"><img src="https://github.com/Mavlonbek17/Mavlonbek17/blob/main/YouTubeSub.svg" width="250" align="right" alt="Waren Gonzaga's Dev Card"/></a>
-<!-- markdownlint-enable MD033 -->
+
 
 ## 🎧 Spotify Playing
 
@@ -40,7 +38,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
 
 ## 🔧 SKILLS and Tools I use
 
-![skills](https://skillicons.dev/icons?i=html,css,c,cs,js,react,mongodb,mysql,py,django,idea,java,stackoverflow,eclipse,flask,docker,git,bash,jquery,nginx,vscode,bootstrap,discord,github&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,py,django,git,vscode,bootstrap,github&theme=light)
 
 ## 🌏 My Community
 <a href="https://discord.gg/KzFmddJ2" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="45" height="45" /></a>
@@ -82,7 +80,7 @@ I'm a 3rd year Computer Engineering student. I have been working with Python for
     <summary>&#127942 <b>GitHub Awards</b></summary><br/> -->
 
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Mavlonbek17&theme=tokyonight)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=maTTy-special&theme=tokyonight)
 
 <!-- </details> -->
 
