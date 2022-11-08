@@ -3,14 +3,14 @@
   <img src="https://img.shields.io/github/followers/maTTy-special?label=Followers%20&logo=github" alt="GitHub Followers" /> <img src="https://komarev.com/ghpvc/?username=maTTy-special&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" /> <img src="https://visitor-badge.glitch.me/badge?page_id=maTTy-special.maTTy-special" alt="Profile Visitor"/>
 
 
-# Hi, I am Tokhirjon Ismoilov (💻💖☕)
+# Hi, I am Tokhirjon Ismoilov (💻+🐈+⚽)
 
 📢 Nominate ([@maTTy-special](https://github.com/maTTy-special)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate My hardwork and dedication to open source.
 
 <!-- markdownlint-enable MD033 -->
 ##  All My Social Media Below
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://m.facebook.com/mavlonbek.zaynobiddinov.3?ref=104) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Zaynobiddinov_M) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mavlonbek-zaynobiddinov-9a34a61b6) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCaia8ddKiC7B2xqZUCwahTg)[![Stackoverflow](https://img.shields.io/badge/-StackOverFlow-green)](https://stackoverflow.com/users/17987927/mavlonbek-zaynobiddinov)[![Instagram](https://img.shields.io/badge/-INSTAGRAM-blue)](https://www.instagram.com/mz_vlogs_/?hl=en)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/stainless.ismoilov) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Zaynobiddinov_M) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mavlonbek-zaynobiddinov-9a34a61b6) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCaia8ddKiC7B2xqZUCwahTg)[![Stackoverflow](https://img.shields.io/badge/-StackOverFlow-green)](https://stackoverflow.com/users/17987927/mavlonbek-zaynobiddinov)[![Instagram](https://img.shields.io/badge/-INSTAGRAM-blue)](https://www.instagram.com/mz_vlogs_/?hl=en)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+stack+Web+Developer;Love+Coding;Good+at+Python;Always-Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
